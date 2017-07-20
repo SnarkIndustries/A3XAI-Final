@@ -4,7 +4,7 @@ A3XAI - Final Version (Last edited: April 17, 2016)
 Important
 ---
 This addon is no longer actively developed or supported in any way. Everything below this section is from the original Readme.
-This was the last and final release of A3XAI for A3 servers that still run Exile, and was never released to the public. 
+This was the last and final release of A3XAI for A3 running the Exile mod and was never released to the public. 
 There is ***absolutely no guarantee** that this version of A3XAI is bug or issue-free, especially after a year of non-development. Use at your own risk.
 
 Introduction
